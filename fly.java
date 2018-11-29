@@ -1,6 +1,4 @@
-package fr.wcs.lib;
-
-public interface fly {
+public interface Fly {
     void takeOff();
 
     void ascend (int meters);
