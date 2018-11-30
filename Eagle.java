@@ -1,4 +1,4 @@
-public class Eagle extends Bird implements fly{
+public class Eagle extends Bird implements Fly{
 
     private boolean flying;
     private int altitude;
